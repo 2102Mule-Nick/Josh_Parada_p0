@@ -38,12 +38,6 @@ private String username;
 		this.password = password;
 	}
 
-	public User(String username, String password, double balance) {
-		super();
-		this.username = username;
-		this.password = password;
-		this.balance = balance;
-	}
 	
 	public User() {
 		super();

@@ -22,7 +22,7 @@ public class UserDaoKryo implements UserDao {
 
 	private Logger log = Logger.getRootLogger();
 	
-	private static final String FOLDER_NAME = "users\\";
+	private static final String FOLDER_NAME = "userss\\";
 	
 	private static final String FILE_EXTENSION = ".dat";
 	
